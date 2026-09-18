@@ -1,0 +1,21 @@
+{
+  "name": "equinity-marketplace",
+  "owner": {
+    "name": "Equinity Platform Team"
+  },
+  "metadata": {
+    "description": "Equinity internal Copilot plugins",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "equinity-product-agent",
+      "description": "Equinity Product Management Agent",
+      "version": "1.0.0",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/PraveenRaja1/equinity-product-agent.git"
+      }
+    }
+  ]
+}
